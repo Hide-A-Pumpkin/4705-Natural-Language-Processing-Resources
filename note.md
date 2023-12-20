@@ -1,3 +1,5 @@
+# Quick Review for Important Terms and Notes
+
 ## Temperature Scaling
 
 Changing the distribution for sampling, and knowledge distillation. 
